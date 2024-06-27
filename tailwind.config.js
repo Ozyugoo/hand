@@ -9,7 +9,7 @@ export default {
       },
       colors: {
         light: "#F5F4F6",
-        customYellow: "#FDCA09",        
+        customYellow: "#FDCA09",
         gray: "#5A6675",
         darkBtn: "#0B0B0B",
         darkMeet: "#101010",
@@ -19,6 +19,7 @@ export default {
         iconBg: "#1E1E1E",
         figures: "#FEC00A",
         focus: "#C82090",
+        grey: "#101010",
       },
     },
     plugins: [],

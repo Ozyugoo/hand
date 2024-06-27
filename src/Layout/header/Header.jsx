@@ -4,7 +4,7 @@ import Button from "../../components/navigation/Button";
 
 function Header() {
   return (
-    <div className="flex w-full p-4 bg-white justify-between items-center z-50 absolute">
+    <div className="flex lg:w-full p-4 bg-white justify-between items-center">
       <div className="lg:w-1/5 md:w-1/6 flex justify-center items-center">
         <Logo />
       </div>

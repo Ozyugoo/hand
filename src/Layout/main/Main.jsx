@@ -1,8 +1,10 @@
-import Hero from "../../components/hero/Hero";
+import Hero from "../../components/main/Hero";
+import WhoWeAre from "../../components/main/whatWeDo";
 function Main() {
   return (
     <div>
       <Hero />
+      <WhoWeAre />
     </div>
   );
 }
