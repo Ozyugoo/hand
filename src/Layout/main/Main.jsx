@@ -14,7 +14,7 @@ function Main() {
       <MeetTeam />
       <Statistists />
       <div className="md:flex flex-wrap w-full justify-between items-center p-14">
-        <div className="bg-nude w-6/12 p-16">
+        <div className="bg-nude md:w-6/12 p-16 w-full">
           <img src={Image} alt="Team" className="object-contain" />
         </div>
         <Form />
