@@ -2,7 +2,7 @@ import MidImage from "../../assets/midImage.svg";
 
 function WhoWeAre() {
   return (
-    <div className="mt-10 mx-14 m-auto text-grey">
+    <div className="mt-10 mx-14 m-auto text-darkMeet">
       <h2 className="font-sans font-bold text-3xl  mb-6">Who we are</h2>
       <p className="text-[1.4rem] text-left font-medium mb-28">
         We love what we do and create partnerships with our clients to ensure
