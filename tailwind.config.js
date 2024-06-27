@@ -19,6 +19,7 @@ export default {
         iconBg: "#1E1E1E",
         figures: "#FEC00A",
         focus: "#C82090",
+        nude: "#FEF1E0",
       },
     },
     plugins: [],
