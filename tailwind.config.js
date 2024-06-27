@@ -9,8 +9,7 @@ export default {
       },
       colors: {
         light: "#F5F4F6",
-        customYellow: "#FDCA09",
-        accent: "#FEBC0AB2",
+        customYellow: "#FDCA09",        
         gray: "#5A6675",
         darkBtn: "#0B0B0B",
         darkMeet: "#101010",
